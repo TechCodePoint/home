@@ -1,7 +1,22 @@
+*
+{
+    padding:0px;
+    margin:0px;
+    box-sizing: border-box;
+}
+
 .tophead
 {
     display:block;
-    background-color: #aaa;
-    text-align: center;
-    vertical-align: auto;
+    background-color: rgb(237, 243, 200);
+    /*text-align: center;*/
+    /*vertical-align: auto;*/
+    /*border-top: 2px solid black;*/
+    /*border-bottom: 2px solid black;*/
+}
+
+.topheadcontent
+{
+    float:left;
+    padding:10px;
 }
